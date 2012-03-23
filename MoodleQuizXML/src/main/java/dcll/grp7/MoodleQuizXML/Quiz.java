@@ -1,7 +1,7 @@
 /**
 Quiz est la class mere
 de l'application 
-tous les types questions l'herite
+tous les types questions l'heritent
 * 
 */
 package dcll.grp7.MoodleQuizXML;
