@@ -1,4 +1,3 @@
-
 /**
  * 
  */
@@ -59,7 +58,7 @@ public class ParserXmlToJava {
         Iterator i = listDesQuestions.iterator();
         int numero=0;
         while (i.hasNext()) {
-            // On recrée l'Element courant à chaque tour de boucle afin de
+            //    On recrée l'Element courant à chaque tour de boucle afin de
             // pouvoir utiliser les méthodes propres aux Element comme :
             // selectionner un noeud fils, modifier du texte, etc...
             Element courant = (Element) i.next();
