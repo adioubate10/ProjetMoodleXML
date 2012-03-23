@@ -1,7 +1,7 @@
 package dcll.grp7.MoodleQuizXML;
 
 /**
- * Hello world!
+ * Hello world Diop!
  *
  */  
 public class App 
