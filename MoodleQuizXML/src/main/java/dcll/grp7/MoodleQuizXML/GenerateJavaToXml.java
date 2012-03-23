@@ -6,7 +6,8 @@ import org.jdom.Document;
 import org.jdom.Element;
 import org.jdom.output.Format;
 import org.jdom.output.XMLOutputter;
-
+ 
+/** implementation de la classe GenerateJavaToXml**/
 public class GenerateJavaToXml {
 
 	public static Element racine = new Element("quiz");
