@@ -1,15 +1,21 @@
-**
+/**
  * 
  */
-package dcll.grp7.MoodleXML;
+package dcll.grp7.MoodleQuizXML;
+
+import org.jdom.Element;
 
 /**
- * @author etu2
+ * @author dioubate
  *
  */
 public class Category extends Quiz{
 
+<<<<<<< HEAD
 public Category(){
+=======
+	public Category(){
+>>>>>>> aff9df96fd8bab26ee4cf261ccd5571e52bd896d
 		super();
 	}
 	

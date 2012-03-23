@@ -1,15 +1,17 @@
-/**
- * 
- */
-package dcll.grp7.MoodleXML;
+package dcll.grp7.MoodleQuizXML;
 
-/**
- * @author etu2
- *
- */
+
+
+
+import org.jdom.Element;
+
 public class Cloze extends Quiz{
 
+<<<<<<< HEAD
 public Cloze(){
+=======
+	public Cloze(){
+>>>>>>> aff9df96fd8bab26ee4cf261ccd5571e52bd896d
 		super();
 	}
 	
@@ -65,5 +67,9 @@ public Cloze(){
     	lireBalireComplexeAnswer(courant,"answer","feedback","text");
     	
     }
+<<<<<<< HEAD
+=======
+	
+>>>>>>> aff9df96fd8bab26ee4cf261ccd5571e52bd896d
 
 }
