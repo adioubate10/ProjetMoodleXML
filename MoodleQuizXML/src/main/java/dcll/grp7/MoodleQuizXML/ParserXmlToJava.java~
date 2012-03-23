@@ -3,14 +3,6 @@
  */
 package dcll.grp7.MoodleXML;
 
-import java.io.File;
-import java.util.Iterator;
-import java.util.List;
-
-import org.jdom.Element;
-import org.jdom.input.SAXBuilder;
-
-
 /**
  * @author etu2
  *

@@ -7,6 +7,6 @@ package dcll.grp7.MoodleXML;
  * @author etu2
  *
  */
-public class Calculated extends Quiz{
+public class Description  extends Quiz{
 
 }
