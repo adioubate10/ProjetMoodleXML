@@ -1,10 +1,9 @@
 
- 
 package dcll.grp7.MoodleQuizXML;
 
 import org.jdom.Element;
 
-
+ /** implémentation de la classe Truefalse**/
 public class TrueFalse extends Quiz{
 
 	public TrueFalse(){
