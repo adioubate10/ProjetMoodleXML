@@ -3,7 +3,7 @@ package dcll.grp7.MoodleQuizXML;
 
 import org.jdom.Element;
 
-
+//implementation de la classe Calculated
 public class Calculated extends Quiz {
 	
 	public Calculated(){

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /**
  * 
  */
@@ -20,8 +20,7 @@ import org.jdom.input.SAXBuilder;
  * @author etu2
  *
  */
-=======
->>>>>>> aff9df96fd8bab26ee4cf261ccd5571e52bd896d
+//implementation de la lasse ParserXmlToJava
 public class ParserXmlToJava {
 	
 	private static org.jdom.Document document;
@@ -120,7 +119,7 @@ public class ParserXmlToJava {
 
 
 
-<<<<<<< HEAD
+
 private static org.jdom.Document document;
     private static Element racine;
 
@@ -217,6 +216,5 @@ private static org.jdom.Document document;
 
 
 }
-=======
     }
->>>>>>> aff9df96fd8bab26ee4cf261ccd5571e52bd896d
+
