@@ -1,4 +1,3 @@
-
 package dcll.grp7.MoodleQuizXML;
 
 import org.jdom.Element;
@@ -10,7 +9,7 @@ public class Numerical extends Quiz{
 		super();
 	}
 	
-	public void gererateNumerical(Element racine){
+	public void gererateNumerical(Element racine){ 
 		
 		/*racine.addContent(getQuestion());
         getQuestion().setAttribute("type","numerical")
