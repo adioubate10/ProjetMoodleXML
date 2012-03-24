@@ -3,7 +3,7 @@ package dcll.grp7.MoodleQuizXML;
 import org.jdom.Element;
 
 /** Implémentation de la classe numerical **/
-public class Numerical extends Quiz {
+public class Numerical extends Quiz { 
 
 	public Numerical() {
 		super();
