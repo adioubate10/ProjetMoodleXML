@@ -93,7 +93,7 @@ public class ParserXmlToJava {
                Multichoice.lireMultiChoice(courant);
             }
          // traitement dans le cas d'une question de type multichoice//
-            if (courant.getAttribute("type").getValue().equals("shortanswer")) {
+            if (courant.getAttribute("type").getValue().equals("shortanswer")) { 
                 ShortAnswer.lireShortAnswer(courant);
             }
         }
