@@ -27,7 +27,7 @@ public class Matching extends Quiz {
             
 	        
 	        elemSimple("image", "");
-	        
+	            
 	        
 	        balContenantUnElem("generalfeedback", "text", "");
 	        
