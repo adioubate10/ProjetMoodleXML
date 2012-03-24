@@ -4,7 +4,7 @@
 package dcll.grp7.MoodleXML;
 =======
 package dcll.grp7.MoodleQuizXML;
->>>>>>> aff9df96fd8bab26ee4cf261ccd5571e52bd896d
+>>>>>>> aff9df96fd8bab26ee4cf261ccd5571e52bd896d  
 
 import java.io.File;
 import java.util.Iterator;
