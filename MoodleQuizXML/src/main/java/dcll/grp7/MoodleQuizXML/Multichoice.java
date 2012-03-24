@@ -2,7 +2,7 @@ package dcll.grp7.MoodleQuizXML;
 
 import org.jdom.Element;
 
-public class Multichoice  extends Quiz{
+public class Multichoice  extends Quiz{  
 	
 	public Multichoice(){
 		super();
